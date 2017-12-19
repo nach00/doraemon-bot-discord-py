@@ -11,11 +11,11 @@ import pickle
 from discord.ext import commands
 
 #DORAEMON
-#TOKEN = 'MzkxMDcyMTAxNDI5MTQ5Njk3.DRTfGA.f3KBfj0Nm_1wZghnpKBGEQRRbDY'
+#TOKEN = 'YOURTOKENHERE'
 
 
 #T4C0-BoT
-TOKEN = 'Mzg5NjA1Mjc1MjU1OTYzNjQ5.DRTn8Q.-YHIoiX4AkQm8fB7e2uCIRhLrHM'
+TOKEN = 'YOURTOKENHERE'
 
 description = '''T4C0-Bot in Python'''
 bot = commands.Bot(command_prefix='!', description=description)
